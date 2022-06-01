@@ -5,7 +5,12 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
   mode: 'development',
   entry: {
      index: './src/index.js',
+     print: './src/print.js',
    },
+   devtool: 'inline-source-map',
+  devServer: {
+    static: './dist',
+  },
    module: {
     rules: [
       {
@@ -22,6 +27,10 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
    output: {
      filename: '[name].bundle.js',
      path: path.resolve(__dirname, 'dist'),
+     publicPath: '/',
    },
+   optimization: {
+    runtimeChunk: 'single',
+  },
  };
  
