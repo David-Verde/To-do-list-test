@@ -1,10 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Awsome Books
+# To Do List
 
-> In this project, we design a web page that creates a list of books. You can add a new book and remove a book from the list. The list is saved dynamically on the local storage, so every time you reload the page, the data saved on the local storage is displayed on the page.
-
-
+> In this project, we design a web page That add list to do. you can add activities to do. and check it once you finish it. it can be remove also.
 ## Built With
 
 - HTML, CSS and Javascript
