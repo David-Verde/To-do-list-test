@@ -1,3 +1,4 @@
+/* eslint-disable import/no-cycle */
 import NewItem from './listClass.js';
 import * as selectors from './selectors.js';
 import { clear } from './interactive.js';
