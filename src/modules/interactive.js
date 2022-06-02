@@ -1,3 +1,4 @@
+/* eslint-disable no-restricted-globals */
 import UpdateUi from './mainSec.js';
 
 // status update
@@ -18,7 +19,6 @@ export function updateSave() {
     UpdateUi.taskArr = [];
   }
 }
-
 export function refresh() {
-	location.reload();
+  location.reload();
 }
