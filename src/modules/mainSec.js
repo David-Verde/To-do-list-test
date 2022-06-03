@@ -31,7 +31,7 @@ export default class UpdateUi {
     const taskBlock = document.getElementById(index);
     UpdateUi.taskArr = UpdateUi.taskArr.filter((item) => item !== taskItem);
     UpdateUi.taskArr.forEach((taskItem, pos) => {
-      taskItem.index = pos;
+      taskItem.index = pos + 1;
     });
     localStorage.setItem('taskItems', JSON.stringify(UpdateUi.taskArr));
     UpdateUi.listblock.removeChild(taskBlock);
