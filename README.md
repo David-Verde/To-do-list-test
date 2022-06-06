@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-> Coming soon.
+(https://david-verde.github.io/WebPack/dist)
 
 
 ## Getting Started
