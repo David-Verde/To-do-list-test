@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #ffff;
+}
+
+.box {
+  width: 400px;
+  background-color: #f1f1f1;
+  box-shadow: 0.25em 0.25em 0.75em rgba(0, 0, 0, 0.25), 0.125em 0.125em 0.125em rgba(0, 0, 0, 0.15);
+}
+
+.box .top-sec {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #a3a3a3;
+  padding: 15px 10px;
+}
+
+.input {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 10px;
+}
+
+ul li > input {
+  margin-right: 20px;
+}
+
+.input input {
+  width: 80%;
+  padding: 10px 0;
+  border: none;
+  font-style: italic;
+  background: initial;
+  font-size: 16px;
+}
+
+.input:focus {
+  background-color: #7a7a7a;
+}
+
+input:focus {
+  outline: none;
+}
+
+ul li {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  padding: 15px 10px;
+  border-top: 1px solid #a3a3a3;
+}
+
+ul li > p {
+  width: 80%;
+  margin-right: 20px;
+}
+
+ul li.completed {
+  color: #b6b6b6;
+  text-decoration: line-through;
+}
+
+ul li > p:focus {
+  outline: none;
+}
+
+.del {
+  display: none;
+}
+
+.btn,
+button {
+  padding: 8px 10px;
+  cursor: pointer;
+  border: none;
+}
+
+button:focus {
+  outline: none;
+}
+
+button > i {
+  color: #a3a3a1;
+}
+
+.btn > i {
+  color: #a3a3a1;
+  font-size: 12px;
+}
+
+.bottom {
+  padding: 10px 15px;
+  border-top: 1px solid #c5c5c5;
+}
+
+.bottom .clear {
+  margin: 0 auto;
+  color: #7a7a7a;
+  text-decoration: none;
+  width: 100%;
+  font-size: 15px;
+  height: 100%;
+}
+
+.bottom .clear:hover {
+  text-decoration: underline;
+  color: #1f1f1f;
+}
