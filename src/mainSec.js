@@ -94,4 +94,4 @@ export default class UpdateUi {
    }
 }
 
-UpdateUi.clear.addEventListener('click', clear);
+// UpdateUi.clear.addEventListener('click', clear);
