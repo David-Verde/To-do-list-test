@@ -2,7 +2,7 @@
 
 # To Do List
 
-> In this project, we design a web page That add list to do. you can add activities to do. and check it once you finish it. it can be remove also.
+> A website that works as a to-do list. The user can add, check and remove tasks.
 ## Built With
 
 Built With:
@@ -57,6 +57,11 @@ Microverse, for the structure to let me learn more.
 - Twitter: [@DavidVerdeAlvarez](https://twitter.com/UnyieldingOne)
 - LinkedIn: [@DavidVerdeAlvarez](https://www.linkedin.com/in/david-verde-3349b114b/)
 
+👤 ## Mike Martínez
+
+- GitHub: [@mikemtzp](https://github.com/mikemtzp)
+- Twitter: [@mikemtzp](https://twitter.com/mikemtzp)
+- LinkedIn: [Miguel Martínez Prieto](https://www.linkedin.com/in/miguel-mart%C3%ADnez-prieto-a42406166/)
 
 
 
