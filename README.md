@@ -27,11 +27,17 @@ To access and change the code on your computer (using GIT):
 Note: if you don't use git, you can download the ZIP of this repository by clicking on the "Code" button above the files list.
 
 Setup
-Open the repository link.
-Click on the "Code" button, above the files list.
-Select one of the three options to copy the URL: HTTPS, SSH key and GitHub CLI.
-Open the Terminal in the directory you want to copy the project.
-Type git clone, paste the URL you copied, and press enter.
+- Open the repository link.
+- Click on the "Code" button, above the files list.
+- Select one of the three options to copy the URL: HTTPS, SSH key and GitHub CLI.
+- Open the Terminal in the directory you want to copy the project.
+- Type git clone, paste the URL you copied, and press enter.
+- install Jest using npm install --save-dev jest in the terminal.
+- install npm i jsdom.
+- install npm install --save-dev jest-environment-jsdom.
+
+
+
 
 ##Usage
 To edit this project:
