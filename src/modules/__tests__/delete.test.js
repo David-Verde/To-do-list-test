@@ -79,11 +79,11 @@ const delTask = (taskItem) => {
 };
 
 describe('Delete tests', () => {
-  test('Delete one task from the list', () => {
+  test('Checks the existence of one task in the list', () => {
     expect(dom.window.document.getElementById('1')).toBeTruthy();
   });
 
-  test('Delete one task from the list', () => {
+  test('Check that one task from the list was deleted', () => {
     delTask();
     expect(dom.window.document.getElementById('1')).toBeFalsy();
   });
