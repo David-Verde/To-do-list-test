@@ -75,4 +75,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT]([./MIT.md](https://github.com/David-Verde/To-do-list-test/blob/test-mike/LICENSE) licensed.
