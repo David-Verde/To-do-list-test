@@ -40,9 +40,6 @@ Edit the code as you want.
 
 
 
-Acknowledgments
-Huge thanks to:
-Microverse, for the structure to let me learn more.
 
 
 
@@ -65,11 +62,10 @@ Microverse, for the structure to let me learn more.
 
 
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+Acknowledgments
+Huge thanks to:
+Microverse, for the structure to let me learn more.
 
 ## Show your support
 
