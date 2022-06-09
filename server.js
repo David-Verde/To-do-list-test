@@ -1,3 +1,4 @@
+/* eslint-disable */
 /* eslint-disable func-names */
 /* eslint-disable prefer-arrow-callback */
 /* eslint-disable import/newline-after-import */
