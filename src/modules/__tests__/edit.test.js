@@ -79,3 +79,16 @@ const editTask = () => {
     });
   }
 };
+
+const task1Text = dom.window.document.querySelector('.txt1');
+describe('Editing a task', () => {
+  test('Checks task text content', () => {
+    expect(task1Text.textContent).toBe('Doing the dishes');
+  });
+  test('Checks task text content after being edited', () => {
+    task1Text.value = 'New Task';
+    task1.innerHTML = task1Text.value;
+    editTask();
+    expect(task1.innerHTML).toBe('New Task');
+  });
+});
