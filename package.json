@@ -1,7 +1,7 @@
 {
   "name": "webpack",
   "version": "1.0.0",
-  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "description": "",
   "main": "index.js",
   "private": true,
   "scripts": {
@@ -9,7 +9,7 @@
     "watch": "jest --watch",
     "start": "webpack serve --open",
     "server": "node server.js",
-    "build": "webpack --mode development"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -39,7 +39,7 @@
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0",
-    "webpack": "^5.73.0",
+    "webpack": "^5.72.1",
     "webpack-cli": "^4.9.2",
     "webpack-dev-middleware": "^5.3.3",
     "webpack-dev-server": "^4.9.1"
