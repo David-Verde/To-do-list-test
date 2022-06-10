@@ -2,21 +2,52 @@
 
 # To Do List
 
-> In this project, we design a web page That add list to do. you can add activities to do. and check it once you finish it. it can be remove also.
+> A website that works as a to-do list. The user can add, check and remove tasks.
 ## Built With
 
-- HTML, CSS and Javascript
-- Linters
+Built With:
+HTML
+CSS
+JavaScript
+JSON
+Webpack
+Live demo:
+
 
 
 ## Live Demo
 
-> Coming soon.
+(https://david-verde.github.io/WebPack/dist)
 
 
 ## Getting Started
 
-> You can download the source code and run it locally. The Live Demo is going to be available proximately.
+To access and change the code on your computer (using GIT):
+
+Note: if you don't use git, you can download the ZIP of this repository by clicking on the "Code" button above the files list.
+
+Setup
+- Open the repository link.
+- Click on the "Code" button, above the files list.
+- Select one of the three options to copy the URL: HTTPS, SSH key and GitHub CLI.
+- Open the Terminal in the directory you want to copy the project.
+- Type git clone, paste the URL you copied, and press enter.
+- install Jest using npm install --save-dev jest in the terminal.
+- install npm i jsdom.
+- install npm install --save-dev jest-environment-jsdom.
+
+
+
+
+##Usage
+To edit this project:
+
+Open the repository you cloned with a code editor that you like.
+Edit the code as you want.
+
+
+
+
 
 
 
@@ -26,18 +57,22 @@
 
 👤 **David Verde Alvarez**
 
-- GitHub: [@DavidVerdeAlvarez](https://github.com/Unyielding1)
+- GitHub: https://github.com/David-Verde
 - Twitter: [@DavidVerdeAlvarez](https://twitter.com/UnyieldingOne)
 - LinkedIn: [@DavidVerdeAlvarez](https://www.linkedin.com/in/david-verde-3349b114b/)
 
+👤 ## Mike Martínez
+
+- GitHub: [@mikemtzp](https://github.com/mikemtzp)
+- Twitter: [@mikemtzp](https://twitter.com/mikemtzp)
+- LinkedIn: [Miguel Martínez Prieto](https://www.linkedin.com/in/miguel-mart%C3%ADnez-prieto-a42406166/)
 
 
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+Acknowledgments
+Huge thanks to:
+Microverse, for the structure to let me learn more.
 
 ## Show your support
 
@@ -47,4 +82,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT Licensed](https://github.com/David-Verde/To-do-list-test/blob/test-mike/LICENSE).
