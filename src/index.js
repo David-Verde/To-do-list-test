@@ -18,5 +18,3 @@ UpdateUi.enterBtn.addEventListener('click', (e) => {
 });
 
 refresh.addEventListener('click', method.refresh);
-
-UpdateUi.clear.addEventListener('click', clear);
