@@ -2,7 +2,7 @@
 
 # To Do List
 
-> A website that works as a to-do list. The user can add, check and remove tasks.
+> this is a project from Microverse, this website  works as a to-do list. The user can add, check and remove tasks. you can clone it and make some changes to it, feel free to write me if you have any sugestion.
 ## Built With
 
 Built With:
